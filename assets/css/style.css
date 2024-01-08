@@ -1298,12 +1298,11 @@ a.thm-btn.main-nav__btn {
 
 .page-header {
 	background-color: var(--thm-black);
-	background-image: url(../images/backgrounds/page-header-bg-1-1.jpg);
 	background-repeat: no-repeat;
 	background-position: right bottom;
 	background-size: cover;
-	padding-bottom: 84px;
-	padding-top: 186px;
+	padding-bottom: 85px;
+	padding-top: 85px;
 }
 
 .page-header .container {
@@ -3893,8 +3892,8 @@ a.thm-btn.main-nav__btn {
 --------------------------------------------------------------*/
 
 .privacy-policy-grid {
-	padding-top: 120px;
-	padding-bottom: 120px;
+	padding-top: 50px;
+	padding-bottom: 50px;
 }
 
 .privacy-policy-title{
